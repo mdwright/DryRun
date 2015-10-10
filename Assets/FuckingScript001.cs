@@ -10,6 +10,6 @@ public class FuckingScript001 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+        Debug.Log("fuuuuuuuuuuck forever!!!");	
 	}
 }
